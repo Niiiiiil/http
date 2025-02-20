@@ -10,4 +10,4 @@
   setcookie('count',$count);
   echo $count;
 
-php>
+?>
